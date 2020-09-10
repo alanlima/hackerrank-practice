@@ -1,3 +1,3 @@
 test:
-	@cat input01.txt | python main.py
+	@cat input00.txt | python main.py
 .PHONY:test
